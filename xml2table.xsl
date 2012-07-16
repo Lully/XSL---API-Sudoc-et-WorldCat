@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
   <xsl:template match="/">
   <html>
-    <head><title>Notices Passiflores</title></head>
+    <head><title>Notices</title></head>
     <body>
       <table border="1">
         <tr valign="top">
@@ -88,7 +88,7 @@
 </xsl:variable>
 
 <tr valign="top">
-<td><a><xsl:attribute name="href"><xsl:value-of select="concat('http://www.unice.fr/cgi-bin/passiflores/client.cgi?NumNot=', @NumNot, '-O&amp;FMT=GEN')"/></xsl:attribute><xsl:value-of select="@NumNot"/></a></td>
+<td><xsl:value-of select="@NumNot"/></td>
 <td><xsl:value-of select="$title"/></td>
 <td><xsl:value-of select="$author"/></td>
 <td><xsl:value-of select="$publisher"/></td>
