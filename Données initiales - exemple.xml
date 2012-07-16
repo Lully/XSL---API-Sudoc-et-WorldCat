@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Livres>
-  <Livre NumNot="00000003" Origine="Université de Nice Sophia-Antipolis">
+  <Livre NumNot="00000003">
     <DateNot>19/05/2005</DateNot>
     <OperName>amm</OperName>
     <FmtNotice>C</FmtNotice>
@@ -45,7 +45,7 @@
       <CB>9000000030015</CB>
     </Ex>
   </Livre>
-  <Livre NumNot="00000004" Origine="Université de Nice Sophia-Antipolis">
+  <Livre NumNot="00000004">
     <DateNot>28/02/2000</DateNot>
     <OperName>CvtV2-V3</OperName>
     <FmtNotice>C</FmtNotice>
