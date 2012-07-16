@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Livres>
+  <Livre NumNot="00000003" Origine="Université de Nice Sophia-Antipolis">
+    <DateNot>19/05/2005</DateNot>
+    <OperName>amm</OperName>
+    <FmtNotice>C</FmtNotice>
+    <LastAcct>D</LastAcct>
+    <TypVis>9</TypVis>
+    <CodeSE>COM</CodeSE>
+    <TypRef>CGR</TypRef>
+    <Aut1>Guengant, André</Aut1>
+    <AutS1>Troussière, Paul</AutS1>
+    <AutS2>Vendeuil, Sylvie de</AutS2>
+    <Tit1>
+      Le role des juges dans la vie des societes
+    </Tit1>
+    <Tit2>glossaire  FIDAL</Tit2>
+    <Lan>fre</Lan>
+    <Edi1>
+      <Edi>Nouv. éd. fiduciaires</Edi>
+      <Ved>Levallois-Perret</Ved>
+      <Dat>1993</Dat>
+    </Edi1>
+    <Pag>264 p. : couv. ill. ; 24 cm</Pag>
+    <Isbn>
+      2-86544-054-0 : FIDAL ; 2-908712-04-0 : Nouv. éd. fiduciaires : br.
+    </Isbn>
+    <Cls Nom="Dewey">340</Cls>
+    <Notes>Notes bibliogr. Index</Notes>
+    <Typ>M</Typ>
+    <Noc>
+      Fiduciaire juridique et fiscale de France
+    </Noc>
+    <Mcl NomTh="Droit">Droit</Mcl>
+    <Mcl NomTh="Droit">Juge</Mcl>
+    <Mcl NomTh="Droit">Société</Mcl>
+    <Ex NumEx="001">
+      <NumInv>39936</NumInv>
+      <Cote>M30588</Cote>
+      <Statut>R</Statut>
+      <Pret>O</Pret>
+      <Acq>2000</Acq>
+      <PrixDev>230,00 F</PrixDev>
+      <RecuLe>21/01/2000</RecuLe>
+      <CB>9000000030015</CB>
+    </Ex>
+  </Livre>
+  <Livre NumNot="00000004" Origine="Université de Nice Sophia-Antipolis">
+    <DateNot>28/02/2000</DateNot>
+    <OperName>CvtV2-V3</OperName>
+    <FmtNotice>C</FmtNotice>
+    <LastAcct>M</LastAcct>
+    <TypVis>9</TypVis>
+    <CodeSE>COM</CodeSE>
+    <TypRef>MONO</TypRef>
+    <Aut1>Sordino, Marie-Christine</Aut1>
+    <AutS1>CABRILLAC, Michel. Préf.</AutS1>
+    <Tit1>Le delit de banqueroute</Tit1>
+    <Tit2>
+      contribution à un droit penal des procedures collectives.
+    </Tit2>
+    <Lan>fre</Lan>
+    <Edi1>
+      <Edi>Litec</Edi>
+      <Ved>Paris</Ved>
+      <Dat>1996</Dat>
+    </Edi1>
+    <Pag>633 p. ; 24 cm</Pag>
+    <Isbn>2-7111-2638-2 : br. ; ISSN 0150-7451</Isbn>
+    <Col>Bibliothèque de droit de l'entreprise</Col>
+    <Nul>34</Nul>
+    <Cls Nom="Dewey">340</Cls>
+    <Notes>
+      Bibliogr. p. 515-608. Index ; Texte remanié de : Th. doct. : Droit : Montpellier
+    </Notes>
+    <Typ>M</Typ>
+    <Mcl NomTh="Droit">Banqueroute</Mcl>
+    <Mcl NomTh="Droit">Délit de banqueroute</Mcl>
+    <Mcl NomTh="Droit">Difficultés des entreprises (droit)</Mcl>
+    <Mcl NomTh="Droit">Entreprises en difficulté (droit)</Mcl>
+    <Mcl NomTh="Droit">Entreprises Redressement amiable</Mcl>
+    <Mcl NomTh="Droit">Entreprises Redressement Droit</Mcl>
+    <Mcl NomTh="Droit">Entreprises Réorganisation Droit</Mcl>
+    <Mcl NomTh="Droit">Faillite Dispositions pénales</Mcl>
+    <Mcl NomTh="Droit">Faillite frauduleuse</Mcl>
+    <Mcl NomTh="Droit">Insolvabilité frauduleuse</Mcl>
+    <Mcl NomTh="Droit">
+      Prévention des difficultés des entreprises
+    </Mcl>
+    <Mcl NomTh="Droit">
+      Procédures collectives (entreprises en difficulté)
+    </Mcl>
+    <Mcl NomTh="Droit">
+      Règlement amiable des difficultés des entreprises
+    </Mcl>
+    <Mcl NomTh="Droit">
+      Règlement des difficultés des entreprises
+    </Mcl>
+    <Mcl NomTh="Droit">Transactions frauduleuses</Mcl>
+    <Ex NumEx="001">
+      <NumInv>41083</NumInv>
+      <Cote>M31218</Cote>
+      <Statut>R</Statut>
+      <Pret>O</Pret>
+      <Acq>1996</Acq>
+      <Four>SORBONNE</Four>
+      <PrixDev>350,00</PrixDev>
+      <RecuLe>05/07/1996</RecuLe>
+      <CB>9000000040014</CB>
+    </Ex>
+  </Livre>
+ </Livres>
